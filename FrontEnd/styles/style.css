@@ -9,3 +9,24 @@ tr {
 #lastItem {
     color: black;
 }
+nav {
+    position: fixed;
+    top:0;
+    width: 35%
+}
+
+table {
+    background-color: blue
+}
+
+ul {
+    font-size: 1.3em;
+}
+
+textarea {
+    border: dotted;
+}
+
+input {
+    margin: 3px;
+}
