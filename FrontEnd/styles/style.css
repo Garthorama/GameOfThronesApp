@@ -12,7 +12,7 @@ tr {
 nav {
     position: fixed;
     top:0;
-    width: 35%
+    width: 65%
 }
 
 table {
@@ -21,6 +21,8 @@ table {
 
 ul {
     font-size: 1.3em;
+    font-family: 'Trebuchet MS';
+    border: dotted
 }
 
 textarea {
@@ -29,4 +31,12 @@ textarea {
 
 input {
     margin: 3px;
+}
+
+div {
+    display: inline-block
+}
+
+ol {
+    font-size: 1.3em;
 }
